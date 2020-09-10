@@ -1,4 +1,6 @@
-
+'''
+    ye h ek module
+'''
 def summ(*arg: float):
     count = 0
     for i in *args:
