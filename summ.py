@@ -1,5 +1,5 @@
 '''
-    ye h ek module
+    ye h ek module git learn krne k liye I guess
 '''
 def summ(*arg: float):
     count = 0
