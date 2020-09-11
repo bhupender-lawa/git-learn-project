@@ -1,9 +1,9 @@
 '''
     ye h ek module git learn krne k liye I guess
 '''
-def summ(*arg: float):
+def summ(args):
     count = 0
-    for i in *args:
+    for i in args:
         count += i
     return count
 
