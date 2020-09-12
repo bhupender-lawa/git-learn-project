@@ -6,3 +6,4 @@ def addition():
 
 if __name__ == "__main__":
     addition()
+    input("Press enter to exit:")
