@@ -7,5 +7,8 @@ def summ(args):
         count += i
     return count
 
+def substraction(a, b):
+    return a-b
+
 if __name__ == "__main__":
-    print('run as main')
+    print('Try only importing as module')
