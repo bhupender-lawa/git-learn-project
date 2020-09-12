@@ -8,6 +8,7 @@ def summ(args):
     return count
 
 def substraction(a, b):
+    #blaa blaa
     return a-b
 
 if __name__ == "__main__":
